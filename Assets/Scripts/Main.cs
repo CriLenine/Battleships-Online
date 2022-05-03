@@ -1,5 +1,4 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -59,7 +58,7 @@ public class Main : MonoBehaviour
             cellMaterials.Add(cellMat.cellType, cellMat.material);
         }
     }
-    
+
     private void Update()
     {
         if ((currentState != PlayerState.PlacingChips && !ClientManager.MyTurn) || currentState == PlayerState.Waiting || !connected)
