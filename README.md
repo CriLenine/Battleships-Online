@@ -1,7 +1,7 @@
 # Battlechips-Online
 
 This project is a *Battleships* game playable online, intended for from 2 to 5 players.  
-We worked on this project for **3 weeks** as a team of **3 students**.
+We worked on this project for **3 weeks** (aside our usual schedule) as a team of **3 students**.
 
 ## Features
 
